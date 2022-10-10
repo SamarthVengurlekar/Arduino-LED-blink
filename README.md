@@ -14,3 +14,6 @@ Beradboard<br />
 ## Physical implementation
 
 
+
+https://user-images.githubusercontent.com/112164785/194918704-0262282f-3aa6-4d47-95e3-91b8664e7bc4.mp4
+
